@@ -1,0 +1,23 @@
+#input-tag{
+    font-size:20px;
+}
+#search-tag{
+    font-size:20px;
+    margin-right:1%;
+}
+.user-div{
+    width:250px;
+    margin:1%;
+    border:1px solid grey;
+}
+.user-img{
+    width:100px;
+    height:100px;
+    border:1px solid grey;
+}
+
+.user-name{
+    font-size: 18px;
+    float:right;
+    margin-right:1%;
+}
